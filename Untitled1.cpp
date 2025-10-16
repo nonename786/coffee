@@ -29,8 +29,10 @@ int main() {
 	}
     
     cout<<dp[n][m]<<endl;
+	cout<<"try to do a change"<<endl;
     return 0;
 }
+
 
 
 
